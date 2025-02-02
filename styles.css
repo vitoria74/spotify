@@ -120,3 +120,8 @@ h1 {
 .section-playlist__content .title {
     font-weight: 700;
 }
+
+.section-playlist__content .subtitle {
+    font-weight: 500;
+    font-size: 12px;
+}
