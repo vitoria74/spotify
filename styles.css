@@ -107,3 +107,7 @@ h1 {
     padding: 16px 20px;
 }
 
+.section-playlist .section-playlist__content {
+    display: flex;
+    flex-direction: column;
+}
