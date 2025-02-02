@@ -134,3 +134,7 @@ button {
     border: none;
     cursor: pointer;
 }
+
+.sidebar .cookies {
+    margin: 25px 20px;
+}
