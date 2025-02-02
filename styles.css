@@ -149,3 +149,7 @@ body {
     font-size: 10px;
     text-decoration: none;
 }
+
+.sidebar .cookies a:hover {
+    text-decoration: underline;
+}
