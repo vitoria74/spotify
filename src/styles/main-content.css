@@ -16,3 +16,9 @@
     border-radius: 8px;
     background-color: #121212;
 }
+
+.header__navigation .navigation {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
