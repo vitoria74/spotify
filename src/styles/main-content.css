@@ -39,3 +39,8 @@
     border: none;
     cursor: pointer;
 }
+
+.header__login {
+    display: flex;
+    align-items: center;
+}
